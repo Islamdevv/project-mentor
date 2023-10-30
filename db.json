@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "title": "New House Plant ",
+      "description": " Houseplant - Wikipedia A houseplant, sometimes known as a pot plant.",
+      "category": "plants",
+      "price": 300,
+      "picture": "https://cdn.shopify.com/s/files/1/0150/6262/products/the_sill-variant-white_gloss-money_tree.jpg?v=1680542101",
+      "id": 6
+    },
+    {
+      "title": "iPad",
+      "description": "IPads include a central processing unit, memory, display, and back and front cameras.",
+      "category": "ipad",
+      "price": 400,
+      "picture": "https://www.komplett.no/img/p/800/1219817.jpg",
+      "id": 7
+    },
+    {
+      "title": "House Plant",
+      "description": "",
+      "category": "plants",
+      "price": "",
+      "picture": "https://www.bhg.com/thmb/SfvVALaQxFyi4vYdbhBR11S41S8=/1280x0/filters:no_upscale():strip_icc()/indoor-potted-houseplants-703b321a-81cf8e1f9aee48a28e1be3bbc45e4386.jpg",
+      "id": 8
+    },
+    {
+      "title": "iPhone ",
+      "description": "",
+      "category": "iphone",
+      "price": 200,
+      "picture": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-7inch-starlight?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661027935971",
+      "id": 9
+    },
+    {
+      "title": "macbook",
+      "description": "",
+      "category": "mac",
+      "price": "",
+      "picture": "https://www.1sm.ru/upload/iblock/5f1/of192jodjqbez8v3vvus7slv7dq4vj3o/00000133311.JPG",
+      "id": 10
+    },
+    {
+      "title": "Apple Whatch",
+      "description": "",
+      "category": "iphone",
+      "price": 200,
+      "picture": "https://login.kg/image/cache/catalog/new/Aksessuary/Apple/Chasy/Watch%207/1-1200x800.jpg",
+      "id": 11
+    }
+  ]
+}
